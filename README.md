@@ -104,7 +104,7 @@ to including all scripts.**
 
 ### hubot-scripts
 
-Before hubot plugin packages were adopted, most plugins were held in the
+Before Hubot plugin packages were adopted, most plugins were held in the
 [hubot-scripts][hubot-scripts] package. Some of these plugins have yet to be
 migrated to their own packages. They can still be used but the setup is a bit
 different.
